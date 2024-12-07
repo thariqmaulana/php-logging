@@ -1,0 +1,4 @@
+[2024-12-05T03:33:20.007697+01:00] Thariq\PhpLogging\LevelTest.ERROR: error [] []
+[2024-12-05T03:33:20.009157+01:00] Thariq\PhpLogging\LevelTest.CRITICAL: critical [] []
+[2024-12-05T03:33:20.009577+01:00] Thariq\PhpLogging\LevelTest.ALERT: alert [] []
+[2024-12-05T03:33:20.009975+01:00] Thariq\PhpLogging\LevelTest.EMERGENCY: emergency [] []
